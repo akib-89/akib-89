@@ -1,6 +1,6 @@
 # Greetings, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)fellow web-crawlers! 🕸️
 
-🕷️ Welcome to the digital domain where technology meets heroics. I'm [Your Name], your friendly neighborhood developer, swinging through lines of code to craft extraordinary digital experiences. Just like Spiderman, I believe in embracing diverse technologies to weave amazing solutions.
+🕷️ Welcome to the digital domain where technology meets heroics. I'm Akibur Rahman, your friendly neighborhood developer, swinging through lines of code to craft extraordinary digital experiences. Just like Spiderman, I believe in embracing diverse technologies to weave amazing solutions.
 
 ## About Me
 
